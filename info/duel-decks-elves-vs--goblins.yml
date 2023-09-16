@@ -1,0 +1,18 @@
+---
+object: set
+id: 94bd6d6b-a3df-4f03-b25f-ee3f57f7f2da
+code: dd1
+mtgo_code: evg
+arena_code: evg
+tcgplayer_id: 33
+name: 'Duel Decks: Elves vs. Goblins'
+uri: https://api.scryfall.com/sets/94bd6d6b-a3df-4f03-b25f-ee3f57f7f2da
+scryfall_uri: https://scryfall.com/sets/dd1
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Add1&unique=prints
+released_at: '2007-11-16'
+set_type: duel_deck
+card_count: 62
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/dd1.svg?1694404800
